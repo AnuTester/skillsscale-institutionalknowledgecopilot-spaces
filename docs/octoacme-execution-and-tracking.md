@@ -8,6 +8,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - **[QA Lead](octoacme-roles-and-personas.md#qa-lead)**: Define test strategies and ensure quality gates are met
 - **[Project Manager](octoacme-roles-and-personas.md#project-managers)**: Track progress, manage risks and dependencies
 - **[Product Manager](octoacme-roles-and-personas.md#product-managers)**: Clarify requirements and prioritize work
+- **[UX Designer](octoacme-roles-and-personas.md#ux-designer)**: Validate design implementation and user experience quality
+- **[DevOps Engineer](octoacme-roles-and-personas.md#devops-engineer)**: Ensure CI/CD pipelines function properly and infrastructure is ready
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
@@ -49,3 +51,5 @@ Clear escalation paths ensure issues are resolved quickly with appropriate stake
 - [ ] **Project Manager**: Risk register updated weekly
 - [ ] **QA Lead**: Test plan and quality gates documented
 - [ ] **QA Lead**: QA handoff process defined for feature acceptance
+- [ ] **UX Designer**: Design validation checkpoints established with developers
+- [ ] **Release Manager**: Release readiness criteria communicated to team
