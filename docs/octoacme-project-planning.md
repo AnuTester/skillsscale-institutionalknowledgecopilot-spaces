@@ -3,18 +3,28 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+## Key Roles in Planning
+- **[Product Manager](octoacme-roles-and-personas.md#product-managers)**: Define scope, prioritize backlog, set success metrics
+- **[Project Manager](octoacme-roles-and-personas.md#project-managers)**: Create project plans, manage timelines and dependencies
+- **[UX Designer](octoacme-roles-and-personas.md#ux-designer)**: Contribute design requirements and user experience considerations
+- **[Stakeholder](octoacme-roles-and-personas.md#stakeholder-customeruser-champion)**: Validate business requirements and priorities
+- **[Developers](octoacme-roles-and-personas.md#developers)**: Provide estimates and technical feasibility input
+- **[QA Lead](octoacme-roles-and-personas.md#qa-lead)**: Define test strategy and quality approach
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+1. **Project Manager**: Facilitate kickoff meeting with stakeholders and delivery team
+2. **Product Manager**: Create prioritized backlog with acceptance criteria
+3. **Developers**: Estimate scope (T-shirt sizing or story points)
+4. **QA Lead**: Define Definition of Done (DoD) including quality gates
+5. **Project Manager**: Identify dependencies and integration points
+6. **Release Manager**: Create release plan and milestone map
+7. **UX Designer**: Define design requirements and user validation approach
+8. **Stakeholder**: Review and validate that plan aligns with business needs
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +46,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
-- [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] **Project Manager**: Project kickoff held with all key roles represented
+- [ ] **Product Manager**: Backlog prioritized and estimated
+- [ ] **Release Manager**: Release timeline and milestones agreed with stakeholders
+- [ ] **QA Lead**: Definition of Done documented with quality criteria
+- [ ] **QA Lead**: Initial test plan / QA approach drafted
+- [ ] **UX Designer**: Design validation and user feedback plan created
+- [ ] **Stakeholder**: Business requirements validated and approved
