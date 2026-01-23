@@ -33,11 +33,14 @@ At a high level, the lifecycle is broken into several phases—**initiation, pla
 
 Each project has clearly defined roles to ensure accountability and effective collaboration:
 
-- **Project Manager (PM)**: Handles delivery coordination, schedules, risk management, and communications.
-- **Product Manager (PdM)**: Defines outcomes, prioritizes work, and measures success.
-- **Developers**: Implement features, create and maintain tests, participate in code reviews, and contribute to technical documentation.
-- **QA/Testing**: Validate quality and acceptance criteria through both automated and manual testing.
-- **Stakeholders**: Provide inputs, approvals, and strategic guidance.
+- **[Project Manager](octoacme-roles-and-personas.md#project-managers)**: Handles delivery coordination, schedules, risk management, and communications.
+- **[Product Manager](octoacme-roles-and-personas.md#product-managers)**: Defines outcomes, prioritizes work, and measures success.
+- **[Developers](octoacme-roles-and-personas.md#developers)**: Implement features, create and maintain tests, participate in code reviews, and contribute to technical documentation.
+- **[QA Lead](octoacme-roles-and-personas.md#qa-lead)**: Define test strategies and ensure quality gates are met throughout the development lifecycle.
+- **[Release Manager](octoacme-roles-and-personas.md#release-manager)**: Coordinate release planning, schedules, and deployment activities.
+- **[DevOps Engineer](octoacme-roles-and-personas.md#devops-engineer)**: Manage infrastructure, CI/CD pipelines, and deployment automation.
+- **[UX Designer](octoacme-roles-and-personas.md#ux-designer)**: Research user needs, design interfaces, and ensure excellent user experiences.
+- **[Stakeholder](octoacme-roles-and-personas.md#stakeholder-customeruser-champion)**: Represent customer interests, validate solutions, and provide business context.
 
 These roles are supported by checklists, templates, and a focus on sharing knowledge within the team, which accelerates onboarding and reduces dependency on any single individual.
 
