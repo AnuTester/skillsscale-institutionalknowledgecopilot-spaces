@@ -13,28 +13,31 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
-- High-level timeline and key milestones
-- Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- **Product Manager**: Project One-pager (Problem, Goal, Success Metrics)
+- **Product Manager & Stakeholder**: Stakeholder list & communication plan
+- **Project Manager**: High-level timeline and key milestones
+- **Project Manager**: Initial risk list
+- **Project Manager**: Resource needs (team roles, rough effort estimate)
+- **Stakeholder**: Business case validation and sponsor approval
 
 ## Project One-pager Template
 - Project name:
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
-- Primary stakeholders:
+- Primary stakeholders (link to [Stakeholder role](octoacme-roles-and-personas.md#stakeholder-customeruser-champion)):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (see [OctoAcme Roles](octoacme-roles-and-personas.md)):
+- Stakeholder champion / sponsor:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
-- [ ] Create repo or project board skeleton
-- [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] **Product Manager**: One-pager completed and reviewed by Product Lead
+- [ ] **Stakeholder**: Sponsor / Stakeholder alignment (email or meeting)
+- [ ] **Stakeholder & Product Manager**: Decision: Approve to move into planning?
+- [ ] **Project Manager**: Create repo or project board skeleton
+- [ ] **Project Manager**: Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] **UX Designer**: Initial user research or design discovery scoped (if applicable)
 
 ## Decision Gate
 Move to planning when:
